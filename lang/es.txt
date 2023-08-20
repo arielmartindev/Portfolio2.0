@@ -1,0 +1,65 @@
+﻿title=>Ariel Martin - Desarrollador Web
+lang=>Español
+langh2=>ES
+icono=><img class="icono" id="flag" src="assets/images/es.png">
+
+iam=>PERFIL
+ican=>HABILIDADES
+ido=>TRABAJOS
+you=>CONTACTO
+
+myname=>Ariel Martin
+title1=>TECNICO UNIVERSITARIO</br>EN DESARROLLO WEB
+intro1=>Egresado de la Carrera en Desarrollo Web en la Universidad Nacional de la Matanza
+
+title2=>DISEÑADOR WEB</br>(Front-End)
+intro2=>Soy un fanático del diseño, puedo crear sitios web intuitivos y elegantes. Tengo un amplio conocimiento de las tecnologías HTML, CSS y JS como también en el manejo de herramientas de maquetado y prototipado para UI.
+
+title3=>Desarrollador Web</br>(Back-End)
+intro3=>Tengo experiencia en el desarrollo del lado del servidor. Me esfuerzo por conocer y seguir los patrones de diseño para cada día hacer un mejor código limpio y entendible. Tengo conocimientos en Bases de datos SQL y NoSQL.
+
+titleCard1=>Front-End
+textCard1=>Alta experiencia con HTML5, CSS3 y JS. Frameworks de CSS (bootstrap, materialize), Frameworks JS (Svelte). Diseño UI/UX, responsive design.
+titleCard2=>Back-End
+textCard2=>Lenguajes de Back-end: PHP, .NET(C#), NodeJS/Express. Hospeo y administracion de servidores. Firebase v9.
+titleCard3=>Bases de Datos
+textCard3=>Lenguages de Base de Datos: MySQL - SQL Server. Uso de PHP my Admin, SQL Manager Studio. Base de datos NoSQL (MongoDB), FireStore.
+titleCard4=>Control de Versiones
+textCard4=>Uso de repositorios GIT, GITHUB, GITLAB (manejo de ramas, trabajo en equipo, resolución de conflictos, github Pages, etc.)
+titleCard5=>Otros conocimientos
+textCard5=>POO, UML, SOLID, API REST, metodologias ágiles (SCRUM). Conceptos de Herencia, Interfaces, Polimorfismo. Manejo de VSCode y sus Plugins.
+titleCard6=>Buenas Prácticas
+textCard6=>Desarrollo FirstMobile, Patrones de diseño (MVC, DAO, Singleton, Factory, etc). Conseptos de Usabilidad, Accesibilidad y Testing.
+
+titlepage0=>App de Notas
+textpage0=>Aplicasión Web desarrollada con Node.js,  Express y BD mongoDB. Se conecta con MongoDB Atlas y se encuentra hosteada en la plataforma Heroku.
+titlepage01=>API Swagger LowDB
+textpage01=>REST API Node.JS/Express desarrollada con TypeScrips, documentada con Swagger y usa LowDB como almacenamiento. Está hosteada en Replit.com
+titlepage1=>CREDIVI
+textpage1=>BETA de sitio comercial desarrollado para terceros, diseño de página única y links de contacto (Whatsapp, GoogleForm, redes sociales, etc). Hosteado en GitHub Pages.
+titlepage2=>GASTRONOMIA CASANOVA
+textpage2=>Sitio estilo RAPPI desarrollado en HTML5 CSS3 y JS, Back-End en PHP y base de datos MySQL. Se encuentra alojado en el servidor 000webhost.
+titlepage3=>EVALUATE
+textpage3=>Aplicacion WEB desarrollada para la TESIS de la tecnicatura en desarrollo web. Tecnologias de back-end PHP y mysql. Se encuentra alojado en el servidor 000webhost.
+titlepage4=>TÉCNICO INFORMÁTICO
+textpage4=>Landing Page comercial propia. Desarrollada a partir de plantilla. Alojada en GitHub Pages y redireccionada a mi dominio personal "arielmartin.tk"
+titlepage5=>CONTROL NUTRICIONAL
+textpage5=>Proyecto JAVA desarrollado con la tecnología MAVEN. Implementa los frameworks Spring MVC e Hibernate. Esta APP no está alojada en ningún servidor.
+titlepage6=>PROTOTIPO E-COMMERCE
+textpage6=>Prototipo responsive de página web de comercio electronico. Desarrollo de muestra para cliente.</br>Tecnologías aplicadas: HTML5, CSS3 y JavaScript.
+titlepage7=>CRUD PHP-MySql
+textpage7=>Código desarrollado para optimizar las operaciones entre PHP y MySql recibiendo como entrada de datos ARRAYS y realizando las operaciones de CRUD requeridas.
+titlepage8=>Este Sitio Web
+textpage8=>Porfolio personal. SPA Horizontal, multilenguaje, responsive . Si quieres ver como esta hecho este sitio, puedes visitar el codigo fuente desde aquí:
+titlepage9=>API REST con SQLite
+textpage9=>Esta API REST esta realizada con las tecnologias NODE.JS y EXPRESS, usando los Modulos babel para desarrollar usando js moderno y se utilizó el ORM sequelize para conectar a una BD SQLite
+titlepage10=>Cripto Market
+textpage10=>Front-end que consume y muestra datos de una API externa, cuenta con filtro por el campo del nombre. Fue desarrollado en Svelte y generado con Vite. Esta hospeado en github Pages.
+
+sourse=>Ver Código Fuente
+
+contact=>Contactame
+name=><input name="entry.1440274532" type="text" class="form-control" id="cname" placeholder="Su nombre..." required="">
+email=><input name="emailAddress" type="email" class="form-control" id="emailAddress" placeholder="Su e-mail..." required="">
+message=><textarea name="entry.388888529" rows="6" class="form-control" id="message" placeholder="Su mensaje..." required=""></textarea>
+send=>Enviar
