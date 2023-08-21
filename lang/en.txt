@@ -33,28 +33,44 @@ textCard6=>FirstMobile development, Design patterns (MVC, DAO, Singleton, Factor
 
 titlepage0=>Note App
 textpage0=>Web application developed with Node.js, Express and BD mongoDB. It connects with MongoDB Atlas and is hosted on the Heroku platform.
+
 titlepage01=>API Swagger LowDB
 textpage01=>Node.JS/Express API built with TypeScripts, documented with Swagger, and uses LowDB as storage. It is hosted on Replit.com
+
 titlepage1=>CREDIVI
 textpage1=>BETA of commercial site developed for third parties, single page design and contact links (WhatsApp, GoogleForm, social networks, etc). Hosted on GitHub Pages.
+
 titlepage2=>GASTRONOMIA CASANOVA
 textpage2=>RAPPI style site developed in HTML5 CSS3 and JavaScript.</br>Back-End in PHP and MySQL database. It is hosted on the 000webhost server.
+
 titlepage3=>EVALUATE
 textpage3=>WEB application developed for the THESIS of the web development technician. Back-end technologies PHP and mysql. It is hosted on the 000webhost server.
+
 titlepage4=>TECNICO INFORMATICO
-textpage4=>Own commercial landing page. Developed from template. Site hosted on GitHub Pages and redirected to my personal domain "arielmartin.tk"
+textpage4=>Own commercial Landing Page. Developed from template and hosted in Vercel. Integration with WhatsApp API, OpenStreetMap API and GoogleForms.
+
 titlepage5=>CONTROL NUTRICIONAL
 textpage5=>JAVA project developed with MAVEN technology. Implement the Spring MVC and Hibernate frameworks. This APP is not hosted on any server.
+
 titlepage6=>PROTOTIPO E-COMMERCE
 textpage6=>Responsive E-commerce website prototype. Sample development for client.</br>Applied technologies: HTML5, CSS3 and JavaScript.
+
 titlepage7=>CRUD PHP-MySql
 textpage7=>Code developed to optimize operations between PHP and MySql receiving ARRAYS data as input and performing the required CRUD operations.
+
 titlepage8=>THIS WebSite
 textpage8=>Personal portfolio. Horizontal SPA, multilanguage, responsive. If you want to see how this site is made, you can visit the source code from here:
+
 titlepage9=>REST API with SQLite
 textpage9=>This REST API is made with the NODE.JS and EXPRESS technologies, using the Babel Modules to develop using modern js and the sequelize ORM was used to connect to a SQLite DB
+
 titlepage10=>Cripto Market
 textpage10=>Front-end that consumes and displays data from an external API, has a filter by the name field. It was developed in Svelte and generated with Vite. It is hosted on github Pages.
+
+title-viis=>Viis
+text-viis=>E-commerce developed for a t-shirt printing company. Data obtained from external API. Includes search engine and integration with Mercado Pago.
+
+
 
 sourse=>Source code
 
