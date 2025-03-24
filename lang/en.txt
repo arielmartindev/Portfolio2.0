@@ -44,13 +44,13 @@ titlepage2=>GASTRONOMIA CASANOVA
 textpage2=>RAPPI style site developed in HTML5 CSS3 and JavaScript.</br>Back-End in PHP and MySQL database. It is hosted on the 000webhost server.
 
 titlepage3=>EVALUATE
-textpage3=>WEB application developed for the THESIS of the web development technician. Back-end technologies PHP and mysql. It is hosted on the 000webhost server.
+textpage3=>WEB application developed for the THESIS of the web development technician. Back-end technologies PHP and mysql.
 
 titlepage4=>TECNICO INFORMATICO
 textpage4=>Own commercial Landing Page. Developed from template and hosted in Vercel. Integration with WhatsApp API, OpenStreetMap API and GoogleForms.
 
 titlepage5=>CONTROL NUTRICIONAL
-textpage5=>JAVA project developed with MAVEN technology. Implement the Spring MVC and Hibernate frameworks. This APP is not hosted on any server.
+textpage5=>JAVA project developed with MAVEN technology. Implement the Spring MVC and Hibernate frameworks. This APP is not hosted.
 
 titlepage6=>PROTOTIPO E-COMMERCE
 textpage6=>Responsive E-commerce website prototype. Sample development for client.</br>Applied technologies: HTML5, CSS3 and JavaScript.

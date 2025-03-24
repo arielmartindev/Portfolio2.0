@@ -44,13 +44,13 @@ titlepage2=>GASTRONOMIA CASANOVA
 textpage2=>Sitio estilo RAPPI desarrollado en HTML5 CSS3 y JS, Back-End en PHP y base de datos MySQL. Se encuentra alojado en el servidor 000webhost.
 
 titlepage3=>EVALUATE
-textpage3=>Aplicacion WEB desarrollada para la TESIS de la tecnicatura en desarrollo web. Tecnologias de back-end PHP y mysql. Se encuentra alojado en el servidor 000webhost.
+textpage3=>Aplicacion WEB desarrollada para la TESIS de la tecnicatura en desarrollo web. Tecnologias de back-end PHP y mysql.
 
 titlepage4=>TÉCNICO INFORMÁTICO
 textpage4=>Landing Page comercial propia. Desarrollada a partir de plantilla y alojada en Vercel. Integracion con API de WhatsApp, mapas de OpenStreetMap y GoogleForms
 
 titlepage5=>CONTROL NUTRICIONAL
-textpage5=>Proyecto JAVA desarrollado con la tecnología MAVEN. Implementa los frameworks Spring MVC e Hibernate. Esta APP no está alojada en ningún servidor.
+textpage5=>Proyecto JAVA desarrollado con la tecnología MAVEN. Implementa los frameworks Spring MVC e Hibernate.
 
 titlepage6=>PROTOTIPO E-COMMERCE
 textpage6=>Prototipo responsive de página web de comercio electronico. Desarrollo de muestra para cliente.</br>Tecnologías aplicadas: HTML5, CSS3 y JavaScript.
